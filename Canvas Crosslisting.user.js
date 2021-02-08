@@ -1,10 +1,11 @@
 // ==UserScript==
 // @name         Canvas Crosslisting 
-// @namespace    http://tampermonkey.net/
+// @namespace    https://github.com/nick5435/CanvasUserScripts
 // @version      1.0.1
 // @description  try to save our time
 // @author       Chad Scott, Nick Meyer
 // @include     https://canvas.unl.edu/accounts/*
+// @require     https://code.jquery.com/jquery-3.5.1.min.js
 // @grant        none
 // ==/UserScript==
 (function() {
