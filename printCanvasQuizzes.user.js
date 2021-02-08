@@ -1,11 +1,11 @@
 // ==UserScript==
-// @name         Print Canvas Quiz
-// @namespace    https://github.com/sukotsuchido/CanvasUserScripts
-// @version      1.2
+// @name         Print Canvas Quiz, UNL Version
+// @namespace    https://github.com/nick5435/CanvasUserScripts
+// @version      1.2.1
 // @description  Allows the user to print quizzes from the preview page.
-// @author       Chad Scott (ChadScott@katyisd.org)
-// @include      https://*.instructure.com/courses/*/quizzes/*/take?preview*
-// @require      https://code.jquery.com/jquery-3.4.1.min.js
+// @author       Chad Scott (ChadScott@katyisd.org), Nick Meyer (nmeyer5435@gmail.com)
+// @include      https://canvas.unl.edu/courses/*/quizzes/*/take?preview*
+// @require      https://code.jquery.com/jquery-3.5.1.min.js
 
 // ==/UserScript==
 (function() {
