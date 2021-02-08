@@ -1,11 +1,11 @@
 // ==UserScript==
 // @name         Canvas Course Event Manager
-// @namespace    https://github.com/sukotsuchido/CanvasUserScripts
-// @version      0.55
+// @namespace    https://github.com/nick5435/CanvasUserScripts
+// @version      0.55.1
 // @description  A Canvas UserScript to manage course events
-// @author       Chad Scott (ChadScott@katyisd.org)
-// @include      https://*.instructure.com/calendar* 
-// @require      https://code.jquery.com/jquery-3.4.1.min.js
+// @author       Chad Scott (ChadScott@katyisd.org), Nick Meyer (nmeyer5435@gmail.com)
+// @include      https://canvas.unl.edu/calendar* 
+// @require      https://code.jquery.com/jquery-3.5.1.min.js
 // @grant        none
 // ==/UserScript==
 (function() {
