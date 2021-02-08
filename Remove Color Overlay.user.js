@@ -1,9 +1,10 @@
 // ==UserScript==
 // @name         Remove Color Overlay from Dashboard
-// @version      1.0
+// @version      1.0.1
 // @description  Removes the color overlay from course tiles with images
-// @author       Chad Scott
-// @match        https://*.instructure.com/
+// @author       Chad Scott, Nick Meyer
+// @match        https://canvas.unl.edu/
+// @require     https://code.jquery.com/jquery-3.5.1.min.js
 // @grant        none
 // ==/UserScript==
 
