@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Canvas Crosslisting Instructor Tool
 // @namespace    https://github.com/nick5435/CanvasUserScripts
-// @version      1.7
+// @version      1.7.1
 // @description  A Canvas UserScript to facilitate crosslisting and de-crosslisting of courses.
 // @author       Chad Scott (ChadScott@katyisd.org)
 // @include     https://canvas.unl.edu/courses
