@@ -1,5 +1,5 @@
 # CanvasUserScripts
-UserScripts for Canvas LMS
+UserScripts for Canvas LMS, edited to be enabled for UNL's Canvas implementation.
 
 <b>Canvas Crosslisting.user.js</b> is a very basic tool in which the user inputs the course number of the parent course and child course and then the two are crosslisted together.
 
